@@ -1,0 +1,52 @@
+﻿.content-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-decoration: none;
+    margin: 20px 70px;
+    font-size: 20px;
+    justify-content: center;
+}
+
+    .content-wrapper > div {
+        min-height: 700px;
+    }
+
+.links-wrapper, .ny {
+    float: left;
+    background-color: rgba(138, 138, 138, 0.5);
+    padding: 25px 0;
+}
+
+.links-wrapper {
+    align-content: center;
+    margin-right: 25px;
+}
+
+    .links-wrapper div {
+        padding: 5px;
+    }
+
+        .links-wrapper div a {
+            color: black;
+            text-decoration: none;
+        }
+
+.links-container {
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#links-title {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.ny {
+    margin-left: 25px;
+}
+
+#ny {
+    padding-top: 180px;
+    text-align: center;
+}

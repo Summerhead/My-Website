@@ -1,0 +1,54 @@
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\asp.net project 1.Tests.dll.config
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\asp.net project 1.Tests.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\asp.net project 1.Tests.pdb
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\asp.net project 1.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\asp.net project 1.pdb
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\asp.net project 1.dll.config
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\ru\System.Web.Optimization.resources.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\obj\Debug\asp.net project 1.Tests.csprojAssemblyReference.cache
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\obj\Debug\asp.net project 1.Tests.csproj.CopyComplete
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\obj\Debug\asp.net project 1.Tests.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\obj\Debug\asp.net project 1.Tests.pdb
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\WebGrease.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dreampopper\safu\3 курс 1 семестр\функциональное программирование\labs\asp.net project 1\asp.net project 1.Tests\bin\Debug\EntityFramework.SqlServer.xml

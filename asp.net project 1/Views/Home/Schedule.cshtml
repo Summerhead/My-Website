@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Schedule";
+}
+
+<link rel="stylesheet" href="~/Content/styles/schedule.css">
+
+<div class="schedule-wrapper">
+    <div class="schedule">
+        <a id="nav-link" href="#current-day">Сегодня</a>
+        @{
+            var date = DateTime.Now;
+            if ((int)date.DayOfWeek == 0) {
+                date = date.AddDays(+1);
+            }
+            string curDate = date.ToString("dd.MM.yyyy");
+            foreach (var day in Model) {
+                <div class="day" id="@(day.Date == curDate ? "current-day" : "")">
+                    <p class="day-name">@day.Name</p>
+                    <p class="day-date">@day.Date</p>
+                    <div class="pairs">
+                        @{
+                            if (day.Pairs[0].Name == "") {
+                                <div>Пар нет</div>
+                            }
+                            else {
+                                foreach (var pair in day.Pairs) {
+                                    <div class="pair">
+                                        <p class="pair_num">@pair.Num</p>
+                                        <p>@pair.Time</p>
+                                        <p>@pair.Name</p>
+                                        <p>@pair.Classroom</p>
+                                    </div>
+                                }
+                            }
+                        }
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

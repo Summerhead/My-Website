@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Music";
+}
+
+<link rel="stylesheet" href="~/Content/styles/music.css">
+
+<div class="music-wrapper">
+    <table>
+        @{
+            foreach (var song in ViewBag.Playlist) {
+                <tr>
+                    <td class="title">@song.Title</td>
+                    <td class="audio"><iframe width="600" height="120" scrolling="no" frameborder="no" src=@song.Audio></iframe></td>
+                </tr>
+            }
+        }
+    </table>
+</div>

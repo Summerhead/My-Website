@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="stylesheet" href="~/Content/styles/main.css">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+</head>
+<body>
+    <div class="nav-wrapper">
+        <div class="left-side">
+            <div class="@(ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "nav-link-wrapper active-nav-link" : "nav-link-wrapper")">
+                @Html.ActionLink("HOME", "Index", "Home")
+            </div>
+
+            <div class="@(ViewContext.RouteData.Values["Action"].ToString() == "Schedule" ? "nav-link-wrapper active-nav-link" : "nav-link-wrapper")">
+                @Html.ActionLink("SCHEDULE", "Schedule", "Home")
+            </div>
+
+            <div class="@(ViewContext.RouteData.Values["Action"].ToString() == "Music" ? "nav-link-wrapper active-nav-link" : "nav-link-wrapper")">
+                @Html.ActionLink("MUSIC", "Music", "Home")
+            </div>
+
+            <div class="@(ViewContext.RouteData.Values["Action"].ToString() == "About" ? "nav-link-wrapper active-nav-link" : "nav-link-wrapper")">
+                @Html.ActionLink("ABOUT", "About", "Home")
+            </div>
+        </div>
+
+        <div class="right-side">
+            <div class="brand">
+                V. DEMID
+            </div>
+        </div>
+    </div>
+    @RenderBody()
+    <footer>
+        <div class="vk"><a href="https://vk.com/id419451864">Моя страница ВК</a></div>
+        <div class="github"><a href="https://github.com/Summerhead">Мой GitHub</a></div>
+        <div class="gmail"><a href="https://mail.google.com">Моя почта — vasilev.d.e.228@gmail.com</a></div>
+        <div class="copyright last">&copy; @DateTime.Now.Year</div>
+    </footer>
+
+    @RenderSection("scripts", required: false)
+</body>
+</html>
